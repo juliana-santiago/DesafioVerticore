@@ -1,0 +1,26 @@
+C:\Users\juliana.santiago\Desktop\DesafioVerticore\DesafioVerticore\bin\Debug\netcoreapp3.1\DesafioVerticore.exe
+C:\Users\juliana.santiago\Desktop\DesafioVerticore\DesafioVerticore\bin\Debug\netcoreapp3.1\DesafioVerticore.deps.json
+C:\Users\juliana.santiago\Desktop\DesafioVerticore\DesafioVerticore\bin\Debug\netcoreapp3.1\DesafioVerticore.runtimeconfig.json
+C:\Users\juliana.santiago\Desktop\DesafioVerticore\DesafioVerticore\bin\Debug\netcoreapp3.1\DesafioVerticore.runtimeconfig.dev.json
+C:\Users\juliana.santiago\Desktop\DesafioVerticore\DesafioVerticore\bin\Debug\netcoreapp3.1\DesafioVerticore.dll
+C:\Users\juliana.santiago\Desktop\DesafioVerticore\DesafioVerticore\bin\Debug\netcoreapp3.1\DesafioVerticore.pdb
+C:\Users\juliana.santiago\Desktop\DesafioVerticore\DesafioVerticore\obj\Debug\netcoreapp3.1\DesafioVerticore.csprojAssemblyReference.cache
+C:\Users\juliana.santiago\Desktop\DesafioVerticore\DesafioVerticore\obj\Debug\netcoreapp3.1\DesafioVerticore.AssemblyInfoInputs.cache
+C:\Users\juliana.santiago\Desktop\DesafioVerticore\DesafioVerticore\obj\Debug\netcoreapp3.1\DesafioVerticore.AssemblyInfo.cs
+C:\Users\juliana.santiago\Desktop\DesafioVerticore\DesafioVerticore\obj\Debug\netcoreapp3.1\DesafioVerticore.csproj.CoreCompileInputs.cache
+C:\Users\juliana.santiago\Desktop\DesafioVerticore\DesafioVerticore\obj\Debug\netcoreapp3.1\DesafioVerticore.dll
+C:\Users\juliana.santiago\Desktop\DesafioVerticore\DesafioVerticore\obj\Debug\netcoreapp3.1\DesafioVerticore.pdb
+C:\Users\juliana.santiago\Desktop\DesafioVerticore\DesafioVerticore\obj\Debug\netcoreapp3.1\DesafioVerticore.genruntimeconfig.cache
+E:\Cursos\Curso C#\DesafioVerticore\DesafioVerticore\bin\Debug\netcoreapp3.1\DesafioVerticore.exe
+E:\Cursos\Curso C#\DesafioVerticore\DesafioVerticore\bin\Debug\netcoreapp3.1\DesafioVerticore.deps.json
+E:\Cursos\Curso C#\DesafioVerticore\DesafioVerticore\bin\Debug\netcoreapp3.1\DesafioVerticore.runtimeconfig.json
+E:\Cursos\Curso C#\DesafioVerticore\DesafioVerticore\bin\Debug\netcoreapp3.1\DesafioVerticore.runtimeconfig.dev.json
+E:\Cursos\Curso C#\DesafioVerticore\DesafioVerticore\bin\Debug\netcoreapp3.1\DesafioVerticore.dll
+E:\Cursos\Curso C#\DesafioVerticore\DesafioVerticore\bin\Debug\netcoreapp3.1\DesafioVerticore.pdb
+E:\Cursos\Curso C#\DesafioVerticore\DesafioVerticore\obj\Debug\netcoreapp3.1\DesafioVerticore.csprojAssemblyReference.cache
+E:\Cursos\Curso C#\DesafioVerticore\DesafioVerticore\obj\Debug\netcoreapp3.1\DesafioVerticore.AssemblyInfoInputs.cache
+E:\Cursos\Curso C#\DesafioVerticore\DesafioVerticore\obj\Debug\netcoreapp3.1\DesafioVerticore.AssemblyInfo.cs
+E:\Cursos\Curso C#\DesafioVerticore\DesafioVerticore\obj\Debug\netcoreapp3.1\DesafioVerticore.csproj.CoreCompileInputs.cache
+E:\Cursos\Curso C#\DesafioVerticore\DesafioVerticore\obj\Debug\netcoreapp3.1\DesafioVerticore.dll
+E:\Cursos\Curso C#\DesafioVerticore\DesafioVerticore\obj\Debug\netcoreapp3.1\DesafioVerticore.pdb
+E:\Cursos\Curso C#\DesafioVerticore\DesafioVerticore\obj\Debug\netcoreapp3.1\DesafioVerticore.genruntimeconfig.cache
